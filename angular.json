@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "exoRouting"
+    }
+  },
+  "defaultProject": "exoRouting",
+  "cli": {
+    "analytics": "95842407-5ea5-43c7-8ec4-e6f3a0c68d91"
+  }
 }

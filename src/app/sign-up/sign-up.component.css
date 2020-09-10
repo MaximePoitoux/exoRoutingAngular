@@ -1,0 +1,10 @@
+.background {
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+    color: white;
+}
+
+.background p {
+    margin: 0;
+}

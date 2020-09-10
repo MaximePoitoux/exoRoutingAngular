@@ -1,0 +1,10 @@
+.background {
+    background-color: aquamarine;
+    height: 100vh;
+    width: 100%;
+    color: black;
+}
+
+.background p {
+    margin: 0;
+}
